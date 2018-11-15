@@ -1,0 +1,16 @@
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.uc1.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.uc2.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.uc3.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.uc4.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.uc5.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.uc6.resources
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Rohan\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
